@@ -1,3 +1,3 @@
 The purpose of this project is to use the EPL soccer dataset to build a linear regression model that predicts a player’s score based on their cost.
-By analyzing various attributes of the players,such as their distance covered, goals scored, andshots per game, we can understand how different variables may impact a player’s score and ultimately their value to a club. Here we performed various data preprocessing and cleaning steps to ensure the quality and reliability of our
-model.Overall, the results show that our model has a high R-squared value of 0.925, indicating a strong relationship between the cost of a player and their score.
+By analyzing various attributes of the players,such as their distance covered, goals scored, andshots per game, we can understand how different variables may impact a player’s score and ultimately their value to a club. Here I performed various data preprocessing and cleaning steps to ensure the quality and reliability of our
+model.Overall, the results show that model has a high R-squared value of 0.925, indicating a strong relationship between the cost of a player and their score.
